@@ -1,9 +1,13 @@
-[
-  "expo-build-properties",
-  {
-    "ios": {
-      "useFrameworks": "static"
-    }
-  }
 
-]
+
+{
+  "expo": {
+    "name": "miniproject",
+    "slug": "miniproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "miniproject"
+}
